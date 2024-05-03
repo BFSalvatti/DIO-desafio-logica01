@@ -25,3 +25,22 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+
+## Referências, Créditos & Links Externos
+ https://web.dio.me/track/formacao-logica-de-programacao
+
+ * Meu agradecimento ao https://www.dio.me/users/datascientistabilio; https://github.com/felipeAguiarCode/felipeAguiarCode
+
+
+
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Input_boundary_assertion
+ 
+ https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/#:~:text=Using%20the%20%24%20in%20the%20jQuery%20Library&text=In%20jQuery%2C%20the%20dollar%20sign,utility%20functions%20for%20web%20development.
+
+ https://www.ime.usp.br/~fmario/mac2166/aula5.html
+
+ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration#declara%C3%A7%C3%A3o_for...in
+
